@@ -14,7 +14,7 @@ I am the Founder of **Turing Code**. I don't just build websites; I architect di
 ---
 
 ### 🚀 Current Masterpiece in Progress
-- **[TC PathFinder: Mission-Critical Routing Engine](https://github.com/khaerul-fj/TC-PathFinder):** A high-precision system designed to transform raw data into actionable business insights using autonomous logic.
+- **[TC PathFinder: Mission-Critical Routing Engine](https://github.com/khaerul-fj/TC-PathFinder) :** A high-precision system designed to transform raw data into actionable business insights using autonomous logic.
 
 ---
 
