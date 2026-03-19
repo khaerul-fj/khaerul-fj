@@ -14,7 +14,7 @@ I am the Founder of **Turing Code**. I don't just build websites; I architect di
 ---
 
 ### 🚀 Current Masterpiece in Progress
-- **[Turing Intelligence Dashboard (Phase 1)](link-ke-repo-tuan):** A high-precision system designed to transform raw data into actionable business insights using autonomous logic.
+- **[Turing Intelligence Dashboard (Phase 1)](https://github.com/khaerul-fj/TC-PathFinder):** A high-precision system designed to transform raw data into actionable business insights using autonomous logic.
 
 ---
 
