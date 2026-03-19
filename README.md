@@ -27,7 +27,7 @@ Every line of code I write is an investment in **Legacy**. I prioritize:
 ---
 
 ### 📨 Connect for Strategic Partnership
-- **LinkedIn:** [Khaerul Fajri](link-linkedin-tuan)
+- **LinkedIn:** [Khaerul Fajri](https://www.linkedin.com/in/khaerul-fajri/)
 - **Portfolio:** [Coming Soon]
 - **Email:** [khaerulfajri39@gmail.com]
 
